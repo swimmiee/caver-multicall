@@ -1,9 +1,8 @@
 import { expect } from 'chai';
 import { describe } from 'mocha';
-import Multicall from '../src'
+import Multicall from '..'
 import ERC20Abi from '../abi/ERC20.abi.json'
 import Caver, { AbiItem, provider } from 'caver-js';
-
 
 
 const tokenAddress = '0x5fff3a6c16c2208103f318f4713d4d90601a7313'
