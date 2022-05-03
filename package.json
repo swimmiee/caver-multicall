@@ -15,8 +15,13 @@
     "multicall",
     "klaytn"
   ],
-  "author": "swimmie",
+  "author": "swimmie <dannylisa67@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/dannylisa/caver-multicall",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannylisa/caver-multicall"
+  },
   "devDependencies": {
     "typescript": "^4.6.4"
   },
