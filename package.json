@@ -1,0 +1,26 @@
+{
+  "name": "caver-multicall",
+  "version": "1.0.0",
+  "description": "Multicall library for caver-js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "caver-js",
+    "multicall",
+    "klaytn"
+  ],
+  "author": "swimmie",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "caver-js": "^1.8.1"
+  }
+}
