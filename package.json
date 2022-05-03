@@ -1,6 +1,6 @@
 {
   "name": "caver-multicall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multicall library for caver-js",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
