@@ -1,7 +1,7 @@
 import { expect } from 'chai';
 import { describe } from 'mocha';
 import Multicall from '..'
-import ERC20Abi from '../abi/ERC20.abi.json'
+import ERC20Abi from '../abi/ERC20.abi.min.json'
 import Caver, { AbiItem, provider } from 'caver-js';
 
 
